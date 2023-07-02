@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "432817857334",
+    "project_id": "flavor-hunt-e34fc",
+    "storage_bucket": "flavor-hunt-e34fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:432817857334:android:8c6e8acb78b5dfe90a0997",
+        "android_client_info": {
+          "package_name": "com.example.flavorhunt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "432817857334-1j6g50ve6h03r5ggidtddn74q0v3vr2f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAIa7K5CnlgSHqxMs5JSSsMXGU3by_YIhc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "432817857334-1j6g50ve6h03r5ggidtddn74q0v3vr2f.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
